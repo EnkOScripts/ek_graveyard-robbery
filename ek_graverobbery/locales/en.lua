@@ -1,0 +1,15 @@
+Locales['en'] = {
+    ['no_shovel'] = 'You don\'t have a shovel!',
+    ['cooldown_active'] = 'You already dug here, come back later (remaining: %s seconds)',
+    ['digging'] = 'Digging...',
+    ['digging_cancelled'] = 'Digging was interrupted!',
+    ['found_items'] = 'You found something in the grave!',
+    ['found_nothing'] = 'You found nothing interesting...',
+    ['inventory_full'] = 'You don\'t have enough inventory space!',
+    ['dug_grave'] = 'This grave has already been dug!',
+    ['target_label'] = 'Dig grave',
+    ['progressbar_digging'] = 'Digging grave...',
+    ['received_item'] = 'You received: %sx %s',
+    ['received_items'] = 'You found in the grave:\n%s',
+    ['notify_title'] = 'Grave',
+}

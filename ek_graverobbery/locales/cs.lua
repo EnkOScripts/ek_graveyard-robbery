@@ -1,0 +1,15 @@
+Locales['cs'] = {
+    ['no_shovel'] = 'Nemáš lopatu!',
+    ['cooldown_active'] = 'Tady jsi již kopal, vrať se později (zbývá: %s sekund)',
+    ['digging'] = 'Kopání...',
+    ['digging_cancelled'] = 'Kopání bylo přerušeno!',
+    ['found_items'] = 'Našel jsi něco v hrobce!',
+    ['found_nothing'] = 'Nenašel jsi nic zajímavého...',
+    ['inventory_full'] = 'Nemáš dostatek místa v inventáři!',
+    ['dug_grave'] = 'Tato hrobka je již vykopaná!',
+    ['target_label'] = 'Vykopat hrob',
+    ['progressbar_digging'] = 'Kopání hrobu...',
+    ['received_item'] = 'Získal jsi: %sx %s',
+    ['received_items'] = 'Našel jsi v hrobce:\n%s',
+    ['notify_title'] = 'Hrob',
+}
